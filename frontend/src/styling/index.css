@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .input {
+    @apply py-1 px-4 text-sm rounded-lg bg-[white] text-left shadow-md border 
+  }
+  .card {
+    @apply relative grid grid-cols-6 col-span-6 grid-flow-row p-5 rounded-xl
+  }
+  .card-content {
+    @apply flex col-span-4 flex-wrap border-b pb-3
+  }
+  .code {
+    @apply flex items-center text-center text-white py-4 px-4 rounded-lg border-2 border-[#10002B] bg-[#240046] active:bg-[#3C096C] transition-all
+  }
+  .font-code {
+    font-family: ui-monospace,
+    SFMono-Regular,
+    Menlo,
+    Monaco,
+    Consolas,
+    "Liberation Mono",
+    "Courier New",
+    monospace;
+  }
+}
+
+/* 3db8ff */

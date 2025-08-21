@@ -1,0 +1,10 @@
+.no-nav-h {
+    height: calc(100vh - 85px);
+}
+.no-items-nav-h {
+    height: calc(100vh - 61px);
+}
+
+.no-header-new-node-modal-h {
+    height: calc(100% - 48px);
+}
