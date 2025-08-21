@@ -1,0 +1,100 @@
+import React from "react";
+import { Link } from "react-router-dom";
+
+function Templates(props) {
+  return (
+    <>
+      {props.helmet}
+      <main>
+        <div className="h-[70vh] w-full shadow-inner">
+          <div className="w-full h-3/5 flex justify-center items-center">
+            Templates
+          </div>
+          <div className="w-full h-2/5 flex justify-center items-center gap-x-8">
+            <Link
+              to="/tools/API-versioning"
+              className="text-[#00bfff] hover:underline text-lg"
+            >
+              API Versioning
+            </Link>
+            <span className="block w-1 h-1 rounded-full bg-[#00bfff]"></span>
+            <Link
+              to="/tools/templates"
+              className="text-[#00bfff] hover:underline text-lg"
+            >
+              Templates
+            </Link>
+            <span className="block w-1 h-1 rounded-full bg-[#00bfff]"></span>
+            <Link
+              to="/tools/the-badgeBanner"
+              className="text-[#00bfff] hover:underline text-lg"
+            >
+              The BadgeBanner
+            </Link>
+            {/* <span className="block w-1 h-1 rounded-full bg-[#00bfff]"></span>
+            <Link
+              to="/tools/environment-settings"
+              className="text-[#00bfff] hover:underline text-lg"
+            >
+              Environment Settings
+            </Link> */}
+          </div>
+        </div>
+        <div className="w-full mx-auto">
+          <div className="w-full flex justify-center">
+            <div className="w-1/5 p-8 pt-16">
+              <h2 className="text-right font-extralight text-2xl">Templates</h2>
+            </div>
+            <div className="w-1/3 pb-8 pt-16 px-12 border-x">
+              <p>
+                Similar{" "}
+                <Link to="/tools/API-versioning" className="text-[#00BFFF]">
+                  API Versioning
+                </Link>
+                , A template is an exact duplicate of that project. The biggest
+                difference being, you cannot continuously modify a template - as
+                you can with versions. The purpose for this is to enable
+                template sharing among developers.
+              </p>
+            </div>
+            <div className="w-1/5 p-8 pt-16"></div>
+          </div>
+          <hr className="my-0 mx-56" />
+          <div className="w-full flex justify-center">
+            <div className="w-1/5 p-8">
+              <h2 className="text-right font-extralight text-2xl">
+                Reusing a Template
+              </h2>
+            </div>
+            <div className="w-1/3 py-8 px-12 border-x">
+              <p>
+                From your projects tab you can simply manage your templates.
+                Creating a new project from a template is as simple as clicking
+                the project button.
+              </p>
+            </div>
+            <div className="w-1/5 p-8"></div>
+          </div>
+          <hr className="my-0 mx-56" />
+          <div className="w-full flex justify-center">
+            <div className="w-1/5 p-8">
+              <h2 className="text-right font-extralight text-2xl">
+                Sharing a Template
+              </h2>
+            </div>
+            <div className="w-1/3 pt-8 pb-16 px-12 border-x">
+              <p>
+                Although this service is currently available only in batches, it
+                will essentially allow you to share redundant aspects of a
+                projects among your team.
+              </p>
+            </div>
+            <div className="w-1/5 p-8"></div>
+          </div>
+        </div>
+      </main>
+    </>
+  );
+}
+
+export default Templates;
