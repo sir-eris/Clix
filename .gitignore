@@ -1,0 +1,15 @@
+/__pycache__
+/.git
+/env
+
+**/media
+
+**/static
+
+**/__pycache__
+
+**/local_files
+
+**.sqlite3
+
+**.sql
