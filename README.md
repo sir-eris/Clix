@@ -1,4 +1,4 @@
-# Clix is a complex software with multiple applications. Its web application uses ReactFlow and hyper-resposive UI UX to store basic non-technical inputs visually; then Clix's CLI will be used to tranlate what was stored into ready-to-deploy code.
+# Clix is a complex software with multiple applications. Its web application uses ReactFlow and hyper-resposive UI UX to store basic non-technical inputs visually; then Clix's CLI will be used to translate what was stored into ready-to-deploy code.
 
 Explore Various aspects of the project. Clone and run each section or all together.
 
