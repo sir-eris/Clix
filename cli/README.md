@@ -24,4 +24,4 @@ Clix Command Line Tool ("the CLI") demonstrates the deepest understanding of pro
 
 **How to run the project**
 ---
-Simply [download](https://pypi.org/project/clixdev/) the ```pip package``` and run it using the command ```clixdev --help``` or to review the code in more detail please refer this repo (Clix CLI)[https://github.com/sir-eris/cli]
+Simply [download](https://pypi.org/project/clixdev/) the ```pip package``` and run it using the command ```clixdev --help``` or to review the code in more detail please refer this repo [Clix CLI](https://github.com/sir-eris/cli)
