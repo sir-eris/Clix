@@ -25,14 +25,14 @@ Clix backend ("the app", "the API", "the project") demonstrates the deepest unde
 ---
 In order to run the Clix project you must have the Frontend __AND__ the Backend portions of the whole project running. (For running the backend please refer to its repository [here](https://github.com/sir-eris/backend).)
 Follow these steps carefully and use your brain if you encounter any errors:
-0. Refer this repo [Clix CLI](https://github.com/sir-eris/cli)
-1. Clone the project
-2. Create a virtual environment
-3. Make sure your system has ```python3``` installed
-4. Install ```pip requirements.txt```
-5. ~~Run Frontend~~
-6. Run database migrations
-7. Run the project on ```PORT=8000```
+1. Refer this repo [Clix CLI](https://github.com/sir-eris/cli)
+2. Clone the project
+3. Create a virtual environment
+4. Make sure your system has ```python3``` installed
+5. Install ```pip requirements.txt```
+6. ~~Run Frontend~~
+7. Run database migrations
+8. Run the project on ```PORT=8000```
 
 After successfully running the project, you can use tools such as Postman to test the API endpoints.
 
