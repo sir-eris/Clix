@@ -32,12 +32,13 @@ The __**Logic**__ is the most exciting of the 4. The app deeply customizes the R
 ---
 In order to run the Clix project you must have the Frontend __AND__ the Backend portions of the whole project running. (For running the backend please refer to its repository [here](https://github.com/sir-eris/backend).)
 Follow these steps carefully and use your brain if you encounter any errors:
-1. Clone the project
-2. Create a virtual environment
-3. Make sure your system has ```Node 18.x``` installed
-4. Install ```npm packages```
-5. ~~Run Backend~~
-6. Run the project on ```PORT=3000```
+1. Refer this repo [Clix Frontend](https://github.com/sir-eris/frontend)
+2. Clone the project
+3. Create a virtual environment
+4. Make sure your system has ```Node 18.x``` installed
+5. Install ```npm packages```
+6. ~~Run Backend~~
+7. Run the project on ```PORT=3000```
 
 After successfully running the app, navigate to the _Create Account_ page and create an account (make sure you choose a strong password with lower, upper, 6+, special char).
 
