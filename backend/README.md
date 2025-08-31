@@ -23,7 +23,7 @@ Clix backend ("the app", "the API", "the project") demonstrates the deepest unde
 
 **How to run the project**
 ---
-In order to run the Clix project you must have the Frontend __AND__ the Backend portions of the whole project running. (For running the backend please refer to its repository [here](https://github.com/sir-eris/backend).)
+In order to run the Clix project you must have the Frontend __AND__ the Backend portions of the whole project running. (For running the frontend please refer to its repository [here](https://github.com/sir-eris/frontend).)
 Follow these steps carefully and use your brain if you encounter any errors:
 1. Refer this repo [Clix Backend](https://github.com/sir-eris/backend)
 2. Clone the project
