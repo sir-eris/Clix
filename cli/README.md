@@ -2,6 +2,8 @@
 
 > _NOTE: This repo is a public library made for projects created by the Clix web app._
 
+> _NOTE 2: This project was developed entirely __without AI-assisted__ tools._
+
 > You can download it using ```pip install clixdev``` or visit the [pip page](https://pypi.org/project/clixdev/)
 
 **Project Overview**
