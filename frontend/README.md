@@ -1,6 +1,6 @@
 # Clix Frontend (_PRIVATE PROJECT_)
 
-> _NOTE: This repo is not meant for public use and is only made available publicly for job acquisition purposes only._
+> _NOTE 1: This repo is not meant for public use and is only made available publicly for job acquisition purposes only._
 
 > _NOTE 2: This project was developed entirely __without AI-assisted__ tools._
 
