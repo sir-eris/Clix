@@ -8,10 +8,12 @@
 
 **Project Overview**
 ---
-- LOC: 650
+- LOC: 650<sup>*</sup>
 - Team: 1
 - Timeline: 2mo
 - Language: Python
+
+<sup>*</sup>Count excludes contents of .gitignore and other irrelevant files and directories.
 
 **What's Clix**
 ---
