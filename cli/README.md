@@ -1,6 +1,6 @@
 # Clix CLI (_PUBLIC PROJECT_)
 
-> _NOTE: This repo is a public library made for projects created by the Clix web app._
+> _NOTE 1: This repo is a public library made for projects created by the Clix web app._
 
 > _NOTE 2: This project was developed entirely __without AI-assisted__ tools._
 
