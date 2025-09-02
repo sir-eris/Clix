@@ -6,11 +6,13 @@
 
 **Project Overview**
 ---
-- LOC: 13,557
+- LOC: 13,557<sup>*</sup>
 - Team: 1
 - Timeline: 7mo
 - Framework: Django
 - Main Dependencies: djangorestframework, argon2, matplotlib, numpy, pyjwt, sqlparse
+
+<sup>*</sup>Count excludes contents of .gitignore and other irrelevant files and directories.
 
 **What's Clix**
 ---
