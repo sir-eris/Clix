@@ -6,11 +6,13 @@
 
 **Project Overview**
 ---
-- LOC: 75,046
+- LOC: 75,046<sup>*</sup>
 - Team: 2
 - Timeline: 7mo
 - Framework: React.js
 - Main Dependencies: reactflow, react-redux, react-thunk, zustand, axios, recharts, sass
+
+<sup>*</sup>Count excludes contents of .gitignore and other irrelevant files and directories.
 
 **What's Clix**
 ---
