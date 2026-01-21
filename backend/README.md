@@ -4,16 +4,6 @@
 
 > _NOTE 2: This project was developed entirely __without AI-assisted__ tools._
 
-**Project Overview**
----
-- LOC: 13,557<sup>*</sup>
-- Team: 1
-- Timeline: 7mo
-- Framework: Django
-- Main Dependencies: djangorestframework, argon2, matplotlib, numpy, pyjwt, sqlparse
-
-<sup>*</sup>Count excludes contents of .gitignore and other irrelevant files and directories.
-
 **What's Clix**
 ---
 Clix serves as the middleman between the backend API developer and the IDE. It helps to eliminate hands on development (code writing) which is above 70% _repetitive_. Not to mention the uprise of AI in WebDev industry. On the front it uses graphical editing using nodes and wires to translate user's mind onto the canvas, and on the back it translates that into OpenAPI (Swagger) structure and saves it. Once the developer decides to review or make further modifications to the code, Clix provides a __CLI__ that seamlessly generates a complete project. (Currently Clix is limited to generating Django projects, but turning OpenAPI data structures into other frameworks won't be as challenging compared to the first one.)
